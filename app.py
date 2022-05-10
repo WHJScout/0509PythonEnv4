@@ -7,7 +7,7 @@ a=1
 
 @app.route('/')
 def index():
-    return 'hello worldaaa'
+    return 'zhendekuaia '
     
 if __name__ == '__main__':
     app.run()
